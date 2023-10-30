@@ -8,7 +8,7 @@
             Quaternion q1 = new Quaternion(random.NextDouble(), random.NextDouble(), random.NextDouble(), random.NextDouble());
             Quaternion q2 = new Quaternion(random.NextDouble(), random.NextDouble(), random.NextDouble(), random.NextDouble());
 
-            // Приклади використання операцій з випадковими значеннями
+           
             Console.WriteLine("Quaternion 1: " + q1.W + ", " + q1.X + ", " + q1.Y + ", " + q1.Z);
             Console.WriteLine("Quaternion 2: " + q2.W + ", " + q2.X + ", " + q2.Y + ", " + q2.Z);
 
